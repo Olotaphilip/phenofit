@@ -133,3 +133,35 @@ ul {
 .box-text {
     text-align: center;
 }
+
+.body-2 {
+    height: 40%;
+    background-color: #E5E7EB;
+    margin-top: 70px;
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.body-2-text {
+    display: flex;
+    font-size: 35px;
+    color: #1F2937;
+    font-weight: 300;
+    width: 500px;
+}
+
+.body-2-name {
+    
+    display: flex;
+    width: 500px;
+    font-weight: 600;
+    justify-content: flex-end;
+}
+
+.body-2-name div {
+    padding-right: 40px;
+    margin-top: -10px;
+}
