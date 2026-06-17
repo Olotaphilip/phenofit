@@ -55,8 +55,8 @@ ul {
 }
 
 .left-sub-header {
-    width: 500px;
-    height: 150px;
+    width: 480px;
+    height: 200px;
 }
 
 .left-sub-header div {
@@ -68,19 +68,12 @@ ul {
 .left-sub-header p {
     color: #E5E7EB;
     font-size: 16px;
-    margin-bottom: 5px;
+    margin-bottom: 7px;
     margin-top: 5px;
     
 }
 
- .image {
-    color: #E5E7EB;
-}
-
 .right-sub-header {
-    width: 500px;
-    height: 150px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    width: 470px;
+    height: 200px;
 }
