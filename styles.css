@@ -182,4 +182,23 @@ ul {
     background-color: #3882F6;
     border-radius: 7px;
     justify-content: space-evenly;
+    align-items: center;
+}
+
+.container-header {
+    color: #F9FAF8;
+    font-weight: 700;
+}
+
+.container-content {
+    color: #E5E7EB;
+}
+
+.container button {
+    padding: 7px 25px;
+    color: #E5E7EB;
+    background-color: #3882F6;
+    border-color: #E5E7EB;
+    border-radius: 7px;
+    border-style: solid;
 }
