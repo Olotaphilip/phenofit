@@ -46,3 +46,41 @@ ul {
 .header li {
     list-style: none;
 }
+
+/* nav sub-header-styling */
+.sub-header {
+    display: flex;
+    width: 70%;
+    justify-content: space-between;
+}
+
+.left-sub-header {
+    width: 500px;
+    height: 150px;
+}
+
+.left-sub-header div {
+    color: #F9FAF8;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.left-sub-header p {
+    color: #E5E7EB;
+    font-size: 16px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    
+}
+
+ .image {
+    color: #E5E7EB;
+}
+
+.right-sub-header {
+    width: 500px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
