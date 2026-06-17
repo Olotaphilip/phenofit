@@ -165,3 +165,21 @@ ul {
     padding-right: 40px;
     margin-top: -10px;
 }
+
+/*above footer stlyling */
+.above-footer {
+    height: 270px;
+    margin-top: -75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    width: 80%;
+    height: 100px;
+    background-color: #3882F6;
+    border-radius: 7px;
+    justify-content: space-evenly;
+}
